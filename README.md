@@ -51,7 +51,7 @@ Slide Deck and Video Recording
 - [Revisando un Pull Request](#revisando-un-pull-request-1)
 - [Pull Request: Línea Comando](#pull-request-línea-comando)
 - [Pull Request: Opciones Si No Ejecutas el Código Localmente](#pull-request-opciones-si-no-ejecutas-el-código-localmente)
-- [Pull Request: Opciones Si Ejecutas el Código Localmente](#pull-request-opciones-si-ejecutas-el-código-localmente)
+- [Pull Request: Opciones Si Ejecutas el Código Localmente](#pull-request-pull-opciones-si-ejecutas-el-código-localmente)
 - [Pull Request: Comandos](#pull-request-comandos)
 - [Flujo de Trabajo: GitHub Flow](#flujo-de-trabajo-github-flow)
 - [Flujo de Trabajo: Variación](#flujo-de-trabajo-variación)
@@ -559,7 +559,7 @@ http://opensourcesurvey.org/2017/#insights
 
 </td><td>
 
-### Pull Request: Pull Request: Opciones Si Ejecutas el Código Localmente
+### Pull Request: Opciones Si Ejecutas el Código Localmente
  
 * Si no se necesita ningún cambio, vuelve al navegador y haz clic en merge
 * Si se necesita un cambio, pídale al colaborador que lo haga, o submit mismo la actualización, y luego haga clic en merge
