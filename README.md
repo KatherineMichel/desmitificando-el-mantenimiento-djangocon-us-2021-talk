@@ -236,7 +236,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Vocabulario: GitHub Documentacion en Español
+### Vocabulario: GitHub Documentación en Español
  
 * GitHub tiene documentación en Español
 * Yo voy a usar vocabulario similar
