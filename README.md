@@ -105,7 +105,7 @@ Slide Deck and Video Recording
 - [Actualizar SemVer Versión y Change Log](#actualizar-semver-versión-y-change-log)
 - [Tag y Publish](#tag-y-publish)
 - [20.07 (veinte punto cero siete) Release](#2007-veinte-punto-cero-siete-release)
-- [Algunas Lecciones Aprendidas de Pinax](#algunas-lecciones-apendidas-de-pinax)
+- [Algunas Lecciones Aprendidas de Pinax](#algunas-lecciones-aprendidas-de-pinax)
 - [Simplificado, Autoservicio, Autosostenible](#simplificado-autoservicio-autosostenible)
 - [Mejoras Importantes que He Dirigido](#mejoras-importantes-que-he-dirigido)
 - [La Importancia de Publicidad](#la-importancia-de-publicidad)
