@@ -109,7 +109,7 @@ Slide Deck and Video Recording
 - [Simplificado, Autoservicio, Autosostenible](#simplificado-autoservicio-autosostenible)
 - [Mejoras Importantes que He Dirigido](#mejoras-importantes-que-he-dirigido)
 - [La Importancia de Publicidad](#la-importancia-de-publicidad)
-- [Agotamiento (Burnout)](agotamiento-burnout)
+- [Agotamiento (Burnout)](#agotamiento-burnout)
 - [Reducir el Alcance](#reducir-el-alcance)
 - [Automatización Adicional](#automatización-adicional)
 - [Herramientas Específicas de Python](#herramientas-específicas-de-python)
