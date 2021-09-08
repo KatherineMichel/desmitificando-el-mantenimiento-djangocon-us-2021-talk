@@ -71,7 +71,7 @@ Slide Deck and Video Recording
 - [Algunas Lecciones Aprendidas del Sitio Web de DjangoCon US](#algunas-lecciones-aprendidas-del-sitio-web-de-djangocon-us)
 - [Seguridad Psicológica](#seguridad-psicológica)
 - [Los Errores Desaparecen en el Historial de Git](#los-errores-desaparecen-en-el-historial-de-git)
-- [La Perspectiva del Principiante es Valiosa](#la-perspective-del-principiante-es-valiosa)
+- [La Perspectiva del Principiante es Valiosa](#la-perspectiva-del-principiante-es-valiosa)
 - [Logrando Resultados 10x (diez veces)](#logrando-resultados-10x-diez-veces)
 - [Mi Primera Charla Tech](#mi-primera-charla-tech)
 - [Un Caso de Estudio: Pinax](#un-caso-de-estudio-pinax)
