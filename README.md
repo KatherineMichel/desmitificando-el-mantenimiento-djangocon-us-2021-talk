@@ -51,7 +51,7 @@ Slide Deck and Video Recording
 - [Revisando un Pull Request](#revisando-un-pull-request-1)
 - [Pull Request: Línea Comando](#pull-request-línea-comando)
 - [Pull Request: Opciones Si No Ejecutas el Código Localmente](#pull-request-opciones-si-no-ejecutas-el-código-localmente)
-- [Pull Request: Opciones Si Ejecutas el Código Localmente](#pull-request-pull-opciones-si-ejecutas-el-código-localmente)
+- [Pull Request: Opciones Si Ejecutas el Código Localmente](#pull-request-opciones-si-ejecutas-el-código-localmente)
 - [Pull Request: Comandos](#pull-request-comandos)
 - [Flujo de Trabajo: GitHub Flow](#flujo-de-trabajo-github-flow)
 - [Flujo de Trabajo: Variación](#flujo-de-trabajo-variación)
