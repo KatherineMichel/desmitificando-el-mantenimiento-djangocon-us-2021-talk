@@ -119,11 +119,11 @@ Slide Deck and Video Recording
 - [Cuando Necesites Ayuda](#cuando-necesites-ayuda)
 - [Contrato Social de OS (código abierto)](#contrato-social-de-os-código-abierto)
 - [Ventajas de Manteniendo](#ventajas-de-manteniendo)
-- [Cenar Con Guido](cenar-con-guido)
+- [Cenar Con Guido](#cenar-con-guido)
 - [Vale la pena? Si :)](#vale-la-pena-si-)
 - [Vale la pena? Si :)](#vale-la-pena-si--1)
-- [Muchas Gracias :)](#muchas-gracias)
-- [Contactarme :)](#contactarme)
+- [Muchas Gracias :)](#muchas-gracias-)
+- [Contactarme :)](#contactarme-)
 - [Preguntas y Respuestas](#preguntas-y-respuestas)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
