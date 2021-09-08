@@ -99,7 +99,7 @@ Slide Deck and Video Recording
 - [Manteniendo Pinax Apps](#manteniendo-pinax-apps)
 - [Pinax App Código](#pinax-app-código)
 - [Profesional Nivel Configs](#profesional-nivel-configs)
-- [Actualizar la Test Matrix](actualizar-la-test-matrix)
+- [Actualizar la Test Matrix](#actualizar-la-test-matrix)
 - [pyenv y tox](#pyenv-y-tox)
 - [Python/Django Release Notes](#pythondjango-release-notes)
 - [Actualizar SemVer Versión y Change Log](#actualizar-semver-versión-y-change-log)
