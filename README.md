@@ -34,7 +34,7 @@ Slide Deck and Video Recording
 - [Objetivos de la Charla](#objetivos-de-la-charla)
 - [Supuestos](#supuestos)
 - [Iniciandonos en la Colaboración y la Revisión de Código en GitHub](#iniciandonos-en-la-colaboración-y-la-revisión-de-código-en-github)
-- [Vocabulario: GitHub Documentacion en Español](#vocabulario-github-ocumentación-en-español)
+- [Vocabulario: GitHub Documentación en Español](#vocabulario-github-documentación-en-español)
 - [Terminología de GitHub](#terminología-de-github)
 - [El mantenimiento no es sólo acerca de código](#el-mantenimiento-no-es-sólo-acerca-de-código)
 - [Intenta ponerte en Los Zapatos del Colaborador](#intenta-ponerte-en-los-zapatos-del-colaborador)
