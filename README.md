@@ -31,7 +31,7 @@ Slide Deck and Video Recording
 
 - [Desmitificando el Mantenimiento](#desmitificando-el-mantenimiento)
 - [Mis Afiliaciones](#mis-afiliaciones)
-- [Objetivos de la Charla](#objectivos-de-la-charla)
+- [Objetivos de la Charla](#objetivos-de-la-charla)
 - [Supuestos](#supuestos)
 - [Iniciandonos en la Colaboración y la Revisión de Código en GitHub](#iniciandonos-en-la-colaboración-y-la-revisión-de-código-en-github)
 - [Vocabulario: GitHub Documentacion en Español](#vocabulario-github-ocumentación-en-español)
