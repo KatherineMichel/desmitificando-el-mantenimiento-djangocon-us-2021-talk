@@ -70,7 +70,7 @@ Slide Deck and Video Recording
 - [Me Convertí en Mentor](#me-convertí-en-mentor)
 - [Algunas Lecciones Aprendidas del Sitio Web de DjangoCon US](#algunas-lecciones-aprendidas-del-sitio-web-de-djangocon-us)
 - [Seguridad Psicológica](#seguridad-psicológica)
-- [Los Errores Desaparecen en el Historial de Git](#los-errors-desaparecen-en-el-historial-de-git)
+- [Los Errores Desaparecen en el Historial de Git](#los-errores-desaparecen-en-el-historial-de-git)
 - [La Perspectiva del Principiante es Valiosa](#la-perspective-del-principiante-es-valiosa)
 - [Logrando Resultados 10x (diez veces)](#logrando-resultados-10x-diez-veces)
 - [Mi Primera Charla Tech](#mi-primera-charla-tech)
