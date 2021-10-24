@@ -13,15 +13,19 @@
 
 ## About
 
-Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at DjangoCon US Saturday, October 23, 2021.
+Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon US 2021](https://2021.djangocon.us/) Friday, October 22, 2021.
  
-Conference Page
-* [DjangoCon US 2021](https://2021.djangocon.us/)
+### Spanish Version 
+ 
+* [Original slide deck](https://docs.google.com/presentation/d/1s6vUf3cF1-Ly3H7N43l1-_ZkZOD97VzIUFW7R7Q4I00/edit?usp=sharing)
+* [Video recording](https://www.youtube.com/watch?v=BKJKAN2kEM8)
+* [Repo](https://github.com/KatherineMichel/desmitificando-el-mantenimiento-djangocon-us-2021-talk)
 
-Slide Deck and Video Recording
-* [Original slide deck]()
-* ["Desmitificando el Mantenimiento"]()
-* [Video recording]()
+### English Version 
+ 
+* [Original slide deck](https://docs.google.com/presentation/d/1CmtZFPrFYpXyI2wUqha5kORw15naBkOBUbzNx2xM50I/edit?usp=sharing)
+* [Video recording](https://youtu.be/56sxu9vEJNc)
+* [Repo](https://github.com/KatherineMichel/maintaining-demystified-djangocon-us-2021-talk)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
