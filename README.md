@@ -20,6 +20,7 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 * [Announcing Talk Lineup Blog Post](https://2021.djangocon.us/news/announcing-talk-lineup/)
 * [Talk Page](https://2021.djangocon.us/talks/desmitificando-el-mantenimiento/)
 * [Original slide deck](https://docs.google.com/presentation/d/1s6vUf3cF1-Ly3H7N43l1-_ZkZOD97VzIUFW7R7Q4I00/edit?usp=sharing)
+* [Reviewed by Ricardo Diaz Rincon](https://www.researchgate.net/profile/Ricardo-Diaz-Rincon)
 * [Video recording](https://www.youtube.com/watch?v=BKJKAN2kEM8)
 * [Repo](https://github.com/KatherineMichel/desmitificando-el-mantenimiento-djangocon-us-2021-talk)
 
